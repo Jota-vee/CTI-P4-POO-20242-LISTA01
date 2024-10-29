@@ -1,3 +1,9 @@
+## Lista de atividades:
+- Atividade 01 ---> [Acesse aqui](EXE01))
+
+
+
+
 | Nº    | QUESTÕES |
 | 01    | is null  |
 | 02    | is null  |
