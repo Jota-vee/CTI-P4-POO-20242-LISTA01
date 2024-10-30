@@ -1,4 +1,4 @@
-## Lista de atividades:
+### Lista de atividades:
 - Atividade 01 ---> [Acesse aqui](EXE01/src/br/edu/principal/Principal.java)
 - Atividade 02 ---> [Acesse aqui](EXE02/src/br/edu/principal/Principal.java)
 - Atividade 03 ---> [Acesse aqui](EXE03/src/br/edu/principal/Principal.java)
