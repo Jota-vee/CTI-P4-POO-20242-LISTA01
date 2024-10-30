@@ -17,7 +17,7 @@
 - Atividade 16 ---> [Acesse aqui](EXE16/src/br/edu/principal/Principal.java)
 - Atividade 17 ---> [Acesse aqui](EXE17/src/br/edu/principal/Principal.java)
 - Atividade 18 ---> [Acesse aqui](EXE18/src/br/edu/principal/Principal.java)
-- Atividade 19 ---> [Acesse aqui](EXE19)/src/br/edu/principal/Principal.java)
+- Atividade 19 ---> [Acesse aqui](EXE19/src/br/edu/principal/Principal.java)
 - Atividade 20 ---> [Acesse aqui](EXE20/src/br/edu/principal/Principal.java)
 - Atividade 21 ---> [Acesse aqui](EXE21/src/br/edu/principal/Principal.java)
 - Atividade 22 ---> [Acesse aqui](EXE22/src/br/edu/principal/Principal.java)
