@@ -23,7 +23,7 @@
 - Atividade 22 ---> [Acesse aqui](EXE22/src/br/edu/principal/Principal.java)
 - Atividade 23 ---> [Acesse aqui](EXE23/src/br/edu/principal/Principal.java)
 - Atividade 24 ---> [Acesse aqui](EXE24/src/br/edu/principal/Principal.java)
-- Atividade 25 ---> [![](https://pt.pngtree.com/freepng/new-start-game_6016764.html)](EXE25/src/br/edu/principal/Principal.java)
+- Atividade 25 ---> [Acesse aqui](EXE25/src/br/edu/principal/Principal.java)
 
 | Nº    | QUESTÕES |
 | 01    | is null  |
