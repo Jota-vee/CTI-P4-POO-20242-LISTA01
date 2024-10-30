@@ -25,14 +25,9 @@
 - Atividade 24 ---> [Acesse aqui](EXE24/src/br/edu/principal/Principal.java)
 - Atividade 25 ---> [Acesse aqui](EXE25/src/br/edu/principal/Principal.java)
 
---------------------
 | Nº    | QUESTÕES |
 --------------------
 | 01    | is null  |
---------------------
 | 02    | is null  |
---------------------
 | 03    | is null  |
---------------------
 | 04    | is null  |
---------------------
