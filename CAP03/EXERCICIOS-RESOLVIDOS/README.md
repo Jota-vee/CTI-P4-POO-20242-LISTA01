@@ -1,5 +1,5 @@
 ## Lista de atividades:
-- Atividade 01 ---> [Acesse aqui](EXE01/src/br/edu/principal)
+- Atividade 01 ---> [Acesse aqui](EXE01/src/br/edu/principal/Principal.java)
 
 
 
