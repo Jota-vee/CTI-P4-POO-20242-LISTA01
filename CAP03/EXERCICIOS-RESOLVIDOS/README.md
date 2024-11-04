@@ -25,7 +25,7 @@
 - Atividade 24 ---> [Acesse aqui](EXE24/src/br/edu/principal/Principal.java)
 - Atividade 25 ---> [Acesse aqui](EXE25/src/br/edu/principal/Principal.java)
 
-| N° Atividade | explicação | EXE1-EXE25 |
+| N° Atividade | explicação | link para a |
 |-------------|-------------|-------------|
 |   Coluna1   |   Coluna2   |   Coluna3   |
 |   Coluna1   |   Coluna2   |   Coluna3   |
