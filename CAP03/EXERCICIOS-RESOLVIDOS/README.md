@@ -25,17 +25,17 @@
 - Atividade 24 ---> [Acesse aqui](EXE24/src/br/edu/principal/Principal.java)
 - Atividade 25 ---> [Acesse aqui](EXE25/src/br/edu/principal/Principal.java)
 
-| N° Atividade | explicação | link para a quuestão |
-|:-------------:|-------------|-------------|
-|      1ª     |   Coluna2   |   Coluna3   |
-|      2ª     |   Coluna2   |   Coluna3   |
-|      3ª     |   Coluna2   |   Coluna3   |
-|      4ª     |   Coluna2   |   Coluna3   |
-|      5ª     |   Coluna2   |   Coluna3   |
-|      6ª     |   Coluna2   |   Coluna3   |
-|      7ª     |   Coluna2   |   Coluna3   |
-|      8ª     |   Coluna2   |   Coluna3   |
-|      9ª     |   Coluna2   |   Coluna3   |
+| N° Atividade | explicação  | link para a quuestão |
+|:------------:|-------------|-------------|
+|      1ª      |   Coluna2   | [EXE01](EXE01)  |
+|      2ª      |   Coluna2   |   Coluna3   |
+|      3ª      |   Coluna2   |   Coluna3   |
+|      4ª      |   Coluna2   |   Coluna3   |
+|      5ª      |   Coluna2   |   Coluna3   |
+|      6ª      |   Coluna2   |   Coluna3   |
+|      7ª      |   Coluna2   |   Coluna3   |
+|      8ª      |   Coluna2   |   Coluna3   |
+|      9ª      |   Coluna2   |   Coluna3   |
 |      10ª     |   Coluna2   |   Coluna3   |
 |      11ª     |   Coluna2   |   Coluna3   |
 |      12ª     |   Coluna2   |   Coluna3   |
