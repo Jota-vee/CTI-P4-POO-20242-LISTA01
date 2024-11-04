@@ -20,14 +20,14 @@ look i here<br>
 ```python
 print("hello world !!")
 ```
-- [ ] at java ☕
+- [x] at java ☕
 
 ```java
 
 package hello world;
 public class hello world {
     public static void main(String[] Args) {
-        System.out.println("hello world :(")
+        System.out.println("hello world :(");
     }
 }
 ```
