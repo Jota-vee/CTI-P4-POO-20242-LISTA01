@@ -15,12 +15,12 @@ try look in my eyes
 
 ### hello world 
 
-- [x] at python:python:
+- [x] at python 🐍
 
 ```python
 print("hello world !!")
 ```
-- [ ] at java:coffee:
+- [ ] at java ☕
 
 ```java
 
@@ -33,7 +33,7 @@ public class hello world {
 ```
 > this is very hard<br>
 
-  - [x] at html:card_file_box:
+  - [x] at html 🗃️
 
 ```html
 <!DOCTYPE html>
