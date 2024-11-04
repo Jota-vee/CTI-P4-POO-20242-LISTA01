@@ -8,7 +8,7 @@ my nick in chess.com is jota-vee.<br>
 [if you want start on play](https://www.chess.com/)<br>
 
 look at my eyes
-![dog hot](https://pin.it/1q7XZLNlQ)
+![dog hot](https://www.patasdacasa.com.br/noticia/8-memes-de-cachorro-para-alegrar-seu-dia)
 
 
 
