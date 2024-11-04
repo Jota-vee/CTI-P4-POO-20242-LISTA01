@@ -27,7 +27,7 @@
 
 | N° Atividade | explicação  | link para a quuestão |
 |:------------:|-------------|-------------|
-|      1ª      |   Coluna2   | [EXE01](EXE01)  |
+|      1ª      |   Coluna2   | [EXE01](EXE01) |
 |      2ª      |   Coluna2   |   Coluna3   |
 |      3ª      |   Coluna2   |   Coluna3   |
 |      4ª      |   Coluna2   |   Coluna3   |
