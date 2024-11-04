@@ -27,31 +27,31 @@
 
 | N° Atividade | explicação  | link para a quuestão |
 |:------------:|-------------|-------------|
-|      1ª      |   Coluna2   | [Acessar](EXE01) |
-|      2ª      |   Coluna2   |   Coluna3   |
-|      3ª      |   Coluna2   |   Coluna3   |
-|      4ª      |   Coluna2   |   Coluna3   |
-|      5ª      |   Coluna2   |   Coluna3   |
-|      6ª      |   Coluna2   |   Coluna3   |
-|      7ª      |   Coluna2   |   Coluna3   |
-|      8ª      |   Coluna2   |   Coluna3   |
-|      9ª      |   Coluna2   |   Coluna3   |
-|      10ª     |   Coluna2   |   Coluna3   |
-|      11ª     |   Coluna2   |   Coluna3   |
-|      12ª     |   Coluna2   |   Coluna3   |
-|      13ª     |   Coluna2   |   Coluna3   |
-|      14ª     |   Coluna2   |   Coluna3   |
-|      15ª     |   Coluna2   |   Coluna3   |
-|      16ª     |   Coluna2   |   Coluna3   |
-|      17ª     |   Coluna2   |   Coluna3   |
-|      18ª     |   Coluna2   |   Coluna3   |
-|      19ª     |   Coluna2   |   Coluna3   |
-|      20ª     |   Coluna2   |   Coluna3   |
-|      21ª     |   Coluna2   |   Coluna3   |
-|      22ª     |   Coluna2   |   Coluna3   |
-|      23ª     |   Coluna2   |   Coluna3   |
-|      24ª     |   Coluna2   |   Coluna3   |
-|      25ª     |   Coluna2   |   Coluna3   |
+|      1ª      |   Coluna2   | [Acessar](EXE01)   |
+|      2ª      |   Coluna2   | [Acessar](EXE02)   |
+|      3ª      |   Coluna2   | [Acessar](EXE03)   |
+|      4ª      |   Coluna2   | [Acessar](EXE04)   |
+|      5ª      |   Coluna2   | [Acessar](EXE05)   |
+|      6ª      |   Coluna2   | [Acessar](EXE06)   |
+|      7ª      |   Coluna2   | [Acessar](EXE07)   |
+|      8ª      |   Coluna2   | [Acessar](EXE08)   |
+|      9ª      |   Coluna2   | [Acessar](EXE09)   |
+|      10ª     |   Coluna2   | [Acessar](EXE10)   |
+|      11ª     |   Coluna2   | [Acessar](EXE11)   |
+|      12ª     |   Coluna2   | [Acessar](EXE12)   |
+|      13ª     |   Coluna2   | [Acessar](EXE13)   |
+|      14ª     |   Coluna2   | [Acessar](EXE14)   |
+|      15ª     |   Coluna2   | [Acessar](EXE15)   |
+|      16ª     |   Coluna2   | [Acessar](EXE16)   |
+|      17ª     |   Coluna2   | [Acessar](EXE17)   |
+|      18ª     |   Coluna2   | [Acessar](EXE18)   |
+|      19ª     |   Coluna2   | [Acessar](EXE19)   |
+|      20ª     |   Coluna2   | [Acessar](EXE20)   |
+|      21ª     |   Coluna2   | [Acessar](EXE21)   |
+|      22ª     |   Coluna2   | [Acessar](EXE22)   |
+|      23ª     |   Coluna2   | [Acessar](EXE23)   |
+|      24ª     |   Coluna2   | [Acessar](EXE24)   |
+|      25ª     |   Coluna2   | [Acessar](EXE25)   |
 
 
 
