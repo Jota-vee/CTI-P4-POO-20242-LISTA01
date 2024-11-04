@@ -1,7 +1,8 @@
 ### About me:
 
 my name is **João Victor** <br>
-i know the basic of java, python and html.
+i know the basic of java, python and html.<br>
+java and python are linguage of programetion,<br> but html is language of marking, <br>kind this file, what too is language of marking.
 
 ### hello world 
 
