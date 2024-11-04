@@ -24,5 +24,12 @@ public class hello world {
   - at html:
 
 ```html
-<DOCTYPE html!
+<!DOCTYPE html>
+
+<html>
+    <body>
+        <p>hello world web :)</p>
+    </body>
+</html>
+```
 
