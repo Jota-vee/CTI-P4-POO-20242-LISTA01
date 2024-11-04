@@ -7,7 +7,7 @@ I'm 17 years old, play chess, <br>
 my nick in chess.com is jota-vee.<br>
 [if you want start on play](https://www.chess.com/)<br>
 
-look at my eyes
+try look in my eyes
 ![i](https://www.patasdacasa.com.br/noticia/8-memes-de-cachorro-para-alegrar-seu-dia)
 
 
