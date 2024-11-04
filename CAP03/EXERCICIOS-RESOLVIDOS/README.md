@@ -1,6 +1,6 @@
 ### Tabela sobre as questãoes
 
-| N° Atividade | explicação  | link para a quuestão |
+| N° Atividade | explicação  | link para a questão |
 |:------------:|-------------|-------------|
 |      1ª      |   Coluna2   | [Acessar EXE01](EXE01)   |
 |      2ª      |   Coluna2   | [Acessar EXE02](EXE02)   |
