@@ -13,7 +13,7 @@ my nick in chess.com is jota-vee.
 ```python
 print("hello world !!")
 ```
-- [] at java:
+- [ ] at java:
 
 ```java
 
