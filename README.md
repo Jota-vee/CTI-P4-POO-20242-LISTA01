@@ -16,7 +16,7 @@ print("hello world !!")
 
 package hello world;
 public class hello world {
-    public static void main(String[] Arga) {
+    public static void main(String[] Args) {
         System.out.println("hello world :(");
     }
 }
