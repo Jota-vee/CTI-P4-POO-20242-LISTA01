@@ -8,7 +8,7 @@ I'm 17 years old, play chess, <br>
 my nick in chess.com is **jota_vee**.<br>
 [if you want start on play chess](https://www.chess.com/)<br>
 
-look i here
+look i here<br>
 ![i](https://fotos.amomeupet.org/uploads/fotos/1692142627_64dc0c23f31aa_hd.jpeg)
 
 
