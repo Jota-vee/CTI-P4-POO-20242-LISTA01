@@ -8,7 +8,7 @@ my nick in chess.com is jota-vee.<br>
 [if you want start on play](https://www.chess.com/)<br>
 
 try look in my eyes
-![i](https://images.app.goo.gl/hAExEFWiUqa1rXXS9)
+![i](https://fotos.amomeupet.org/uploads/fotos/1692142627_64dc0c23f31aa_hd.jpeg)
 
 
 
