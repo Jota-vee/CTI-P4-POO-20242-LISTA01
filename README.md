@@ -9,7 +9,7 @@ my nick in chess.com is **jota_vee**.<br>
 [if you want start on play chess](https://www.chess.com/)<br>
 
 look i here<br>
-![i](https://fotos.amomeupet.org/uploads/fotos/1692142627_64dc0c23f31aa_hd.jpeg)
+![i](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F633387440565075%2F&psig=AOvVaw1TpKlRtYMnJp9cVldPKC8l&ust=1730813670502000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjY-8PlwokDFQAAAAAdAAAAABAE)
 
 
 
