@@ -7,7 +7,7 @@ I'm 17 years old, play chess, <br>
 my nick in chess.com is jota-vee.<br>
 [if you want start on play](https://www.chess.com/)<br>
 
-look for me:
+see for me:
 ![dog hot](https://pin.it/1q7XZLNlQ)
 
 
