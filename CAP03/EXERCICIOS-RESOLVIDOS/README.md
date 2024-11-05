@@ -9,13 +9,13 @@
 |      5ª      |   calculo salarial com aumento inderteminado   | [Acessar EXE05](EXE05)   |
 |      6ª      |   calculo sálarial com gratificação de 5% e imposto de 7%   | [Acessar EXE06](EXE06)   |
 |      7ª      |   calculo sálarial com grafitificação de R$50 e imposto de 10%| [Acessar EXE07](EXE07)   |
-|      8ª      |   a   | [Acessar EXE08](EXE08)   |
-|      9ª      |   Coluna2   | [Acessar EXE09](EXE09)   |
-|      10ª     |   Coluna2   | [Acessar EXE10](EXE10)   |
-|      11ª     |   Coluna2   | [Acessar EXE11](EXE11)   |
-|      12ª     |   Coluna2   | [Acessar EXE12](EXE12)   |
-|      13ª     |   Coluna2   | [Acessar EXE13](EXE13)   |
-|      14ª     |   Coluna2   | [Acessar EXE14](EXE14)   |
+|      8ª      |   calculo de rendimento de um deposito   | [Acessar EXE08](EXE08)   |
+|      9ª      |   área de um triangulo   | [Acessar EXE09](EXE09)   |
+|      10ª     |   área do circulo   | [Acessar EXE10](EXE10)   |
+|      11ª     |   exponenciação e radiciação de um número maior que zero  | [Acessar EXE11](EXE11)   |
+|      12ª     |   exponenciação de dois número maiores que 0, um pelo outro e o inverso   | [Acessar EXE12](EXE12)   |
+|      13ª     |   conversão de unidades de distância   | [Acessar EXE13](EXE13)   |
+|      14ª     |   calculo de idade baseado em datas   | [Acessar EXE14](EXE14)   |
 |      15ª     |   Coluna2   | [Acessar EXE15](EXE15)   |
 |      16ª     |   Coluna2   | [Acessar EXE16](EXE16)   |
 |      17ª     |   Coluna2   | [Acessar EXE17](EXE17)   |
