@@ -2,14 +2,14 @@
 
 | N° Questão | explicação  | link para a questão |
 |:------------:|-------------|-------------|
-|      1ª      |   Coluna2   | [Acessar EXE01](EXE01)   |
-|      2ª      |   Coluna2   | [Acessar EXE02](EXE02)   |
-|      3ª      |   Coluna2   | [Acessar EXE03](EXE03)   |
-|      4ª      |   Coluna2   | [Acessar EXE04](EXE04)   |
-|      5ª      |   Coluna2   | [Acessar EXE05](EXE05)   |
-|      6ª      |   Coluna2   | [Acessar EXE06](EXE06)   |
-|      7ª      |   Coluna2   | [Acessar EXE07](EXE07)   |
-|      8ª      |   Coluna2   | [Acessar EXE08](EXE08)   |
+|      1ª      |   soma de quatro números inteiros  | [Acessar EXE01](EXE01)   |
+|      2ª      |   média aritmetica de 3 notas   | [Acessar EXE02](EXE02)   |
+|      3ª      |   média ponderada de 3 notas   | [Acessar EXE03](EXE03)   |
+|      4ª      |   calculo sálarial com 25% de aumento   | [Acessar EXE04](EXE04)   |
+|      5ª      |   calculo salarial com aumento inderteminado   | [Acessar EXE05](EXE05)   |
+|      6ª      |   calculo sálarial com gratificação de 5% e imposto de 7%   | [Acessar EXE06](EXE06)   |
+|      7ª      |   calculo sálarial com grafitificação de R$50 e imposto de 10%| [Acessar EXE07](EXE07)   |
+|      8ª      |   a   | [Acessar EXE08](EXE08)   |
 |      9ª      |   Coluna2   | [Acessar EXE09](EXE09)   |
 |      10ª     |   Coluna2   | [Acessar EXE10](EXE10)   |
 |      11ª     |   Coluna2   | [Acessar EXE11](EXE11)   |
